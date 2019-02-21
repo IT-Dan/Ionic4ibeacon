@@ -1,0 +1,53 @@
+{
+  "_from": "@ionic-native/ibeacon",
+  "_id": "@ionic-native/ibeacon@5.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Gf+cRtMUvr2nK0KR5/SWM0hMBY38dikAKDerHD01AE8Fbv5KfjOG2WoywhsUc5jvg7bmfAkJGsK4zr2RDbtGLg==",
+  "_location": "/@ionic-native/ibeacon",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native/ibeacon",
+    "name": "@ionic-native/ibeacon",
+    "escapedName": "@ionic-native%2fibeacon",
+    "scope": "@ionic-native",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native/ibeacon/-/ibeacon-5.2.0.tgz",
+  "_shasum": "7165a77e9cdf73054360e820cc3e83cff5085732",
+  "_spec": "@ionic-native/ibeacon",
+  "_where": "C:\\Users\\Maddog\\Desktop\\ionic\\AttendanceApp",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@types/cordova": "latest"
+  },
+  "deprecated": false,
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native/ibeacon",
+  "peerDependencies": {
+    "rxjs": "^6.3.0",
+    "@ionic-native/core": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/ionic-native.git"
+  },
+  "typings": "index.d.ts",
+  "version": "5.2.0"
+}
