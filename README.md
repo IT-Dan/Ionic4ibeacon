@@ -21,5 +21,10 @@ This plugin provides functions for working with iBeacons.
 - Android
 - iOS
 
+After you're done installing @ionic-native/ibeacon, you will need to replace two files.
 
+- index.js
+- ngx/index.js
+
+It's not a perfect solution, but it's working.
 
